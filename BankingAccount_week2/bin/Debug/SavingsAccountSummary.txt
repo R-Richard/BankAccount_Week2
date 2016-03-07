@@ -1,0 +1,11 @@
+Savings Account Transaction Summary
+Client Name: Tester McTesterson
+Client Account Number: 4465355616
+KEY: (SB=Start Balance) (TT=Trans Type) (TA=Trans Amt) (EB=End Balance)
+
+
+3/7/2016 4:09:43 AM  SB: $0.00  TT: (+)    TA: $300.00  EB: $300.00
+
+3/7/2016 4:10:16 AM  SB: $300.00  TT: (-)    TA: $2.00  EB: $298.00
+
+3/7/2016 4:10:47 AM  SB: $298.00  TT: (+)    TA: $23.00  EB: $321.00

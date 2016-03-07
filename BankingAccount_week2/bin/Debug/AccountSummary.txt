@@ -1,0 +1,18 @@
+Transaction Summary
+Client Name: Tester McTesterson
+KEY: (SB=Start Balance) (TT=Trans Type) (TA=Trans Amt) (EB=End Balance)
+     (CA=Checking Account) (SA=Savings Account) (RA=Reserve Account)
+
+3/7/2016 4:09:31 AM  CA   SB: $0.00  TT: (+)    TA: $2,345.00  EB: $2,345.00
+
+3/7/2016 4:09:43 AM  SA   SB: $0.00  TT: (+)    TA: $300.00  EB: $300.00
+
+3/7/2016 4:09:51 AM  RA   SB: $0.00  TT: (+)    TA: $400.00  EB: $400.00
+
+3/7/2016 4:10:11 AM  CA   SB: $2,345.00  TT: (-)    TA: $1.00  EB: $2,344.00
+
+3/7/2016 4:10:16 AM  SA   SB: $300.00  TT: (-)    TA: $2.00  EB: $298.00
+
+3/7/2016 4:10:20 AM  RA   SB: $400.00  TT: (-)    TA: $3.00  EB: $397.00
+
+3/7/2016 4:10:47 AM  SA   SB: $298.00  TT: (+)    TA: $23.00  EB: $321.00

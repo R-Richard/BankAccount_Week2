@@ -1,0 +1,9 @@
+Checking Account Transaction Summary
+Client Name: Tester McTesterson
+Client Account Number: 6532364201
+KEY: (SB=Start Balance) (TT=Trans Type) (TA=Trans Amt) (EB=End Balance)
+
+
+3/7/2016 4:09:31 AM  SB: $0.00  TT: (+)    TA: $2,345.00  EB: $2,345.00
+
+3/7/2016 4:10:11 AM  SB: $2,345.00  TT: (-)    TA: $1.00  EB: $2,344.00
